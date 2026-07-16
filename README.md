@@ -54,8 +54,6 @@ Build an end-to-end analytics pipeline that could:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Tahseenahhamza/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis%20Dashboard.jpg)
+![Dashboard Screenshot](https://github.com/Tahseenahhamza/Customer-Shopping-Behavior-Analysis/blob/main/dashboard_screenshot)
 
 ---
-
-*Note: Findings are descriptive comparisons of averages and have not been tested for statistical significance. They should be treated as directional signals rather than confirmed causal effects.*

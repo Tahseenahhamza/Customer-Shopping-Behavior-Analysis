@@ -26,7 +26,7 @@ A retail company wants to understand its customers' shopping behavior to improve
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/Tahseenahhamza/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior%20Analysis%20Dashboard.jpg)
 
 *(Upload your dashboard screenshot/export to the repo and it will render here)*
 

@@ -54,6 +54,6 @@ Build an end-to-end analytics pipeline that could:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Tahseenahhamza/Customer-Shopping-Behavior-Analysis/blob/main/dashboard_screenshot)
+![Dashboard Screenshot](https://github.com/Tahseenahhamza/Customer-Shopping-Behavior-Analysis/blob/main/dashboard_screenshot) 
 
 ---
